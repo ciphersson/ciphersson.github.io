@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #FFF;
+	width: auto;
+	height: 100%;
+	font-family: 'Trebuchet MS', Arial, Sans-Serif;
+	font-size: 15px;
+	color: #474747;
+	line-height: 1.6em;
+}
+a, a:visited {
+	color: #3a9bc7;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+ul {
+	padding-left: 40px;
+}
+.container  {
+	min-width:900px;
+	padding-top:359px;
+	position:relative;
+	width:100%;
+}
+.mainContent {
+	padding: 40px 200px;
+}
