@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ciphersson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ciphersson.github.io
+  * I am ciphersson (https://keybase.io/ciphersson) on keybase.
+  * I have a public key with fingerprint CFE2 47D1 671C 34D1 8833  00E0 E6F8 FEA1 1F87 0718
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012296b0f0c95b1493f8316629d61d5993df421d46bbe61d44908bdc256b00f3fe0a",
+            "fingerprint": "cfe247d1671c34d1883300e0e6f8fea11f870718",
+            "host": "keybase.io",
+            "key_id": "e6f8fea11f870718",
+            "kid": "01012296b0f0c95b1493f8316629d61d5993df421d46bbe61d44908bdc256b00f3fe0a",
+            "uid": "38b006924723fefd65a2623b1f322d00",
+            "username": "ciphersson"
+        },
+        "service": {
+            "hostname": "ciphersson.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474239317,
+    "expire_in": 157680000,
+    "prev": "d59403e52399908ef22651296bcbea4135623f8062c562eab36615a0cc1ef71f",
+    "seqno": 66,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBRRGF5TC63MyCxcemgyFRE7Zy5nZjai1oiMoItppiXbXM7sTurO
+ujO7tshSkEgK5UNQCUIQihoGKmZIlNmNoqSEXrrpw1rmQ9qLFEVuZ6ye6rHzcs75
+z/d9//f9nAcrEx2pCVuP9Ay0Dc8/S3g6ejXkKJ90ljVQsqFGKFcDVY0XN1yjYtPy
+VOsq5aIABJCmRSQDDSgiJ0NWZDSBgQjRooqgyokio2osDVUWyTImFZYVgSCrCs0R
+EtAYDQOJKqA03e/FwUBQ91tEVtEwzfIqRDxUGFaFgsAwAGCAkSZoWIJQE3jAQ4EQ
+fYZpM4g5WTJxoW6QGrl4Fu39A/+ffYcW5RiB1JBIPNPkQVMRJ9GIZmSoMTStAmAD
+TRz0S7XYTqcHfDhomoafihZQpB7WFWyP1s7yF6bQq1u+kPwrWSBoWIZi1BCEz7IC
+pstWsCIBm1KPZc9vMY+s+1UyUcIIExWddHJBglQs3VaHLM/SjMhAvoDCJwN6EHt0
+G8HxSABk2X1wmEiSObCAwRwBiyQ+1mgacdCemyJjiYUMR1JqAkC0Qk5YkhmEICcB
+RYFY46FG2fHq/AblQoj4lLxE09S9fskKBTEVvXf3WJIjIdWxNHmJ/dUcqSnpfz5g
+3/JlcWm8pds1HqFWWNHKonOzWYdU3pFjNTtyF0JpiUdXDQttraOxT0JzijR9om3T
+vu+5I8nvy982ZKV1TB8sP9UZ2Zmh97xaaMnpXZM08bknHp5PD3dey7OO79+eLa51
+nnZPmbH+/MTestIdxlC8ryKvcWSsr+JdCdvv3JhfWfs6U546sDvQ3bKl+vHFuSh8
+MnOmMePO2bH09hfs0M3onkmzuOi8NNix3jczvvnNo8G52aapjtSxzBIw+nzi4W13
+rDQ6HWiqmo/llt6IXc7uurJh20BdZvm6+562r9m7ug73mtfdH5wv279VtP6oT4qr
+VR/3eldL7ktGsWJ8GbpVc2HhJwh0RDA=
+=n5C2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ciphersson
+
+==================================================================
