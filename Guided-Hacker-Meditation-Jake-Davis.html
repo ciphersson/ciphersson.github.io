@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+  body {
+    margin: 0;
+    background: #111;
+    min-width: 960px;
+  }
+
+</style>
+<body>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script>
+
+    var config = {
+      iteration: 0,
+      canvas: {
+        width: Math.max(960, innerWidth),
+        height: Math.max(500, innerHeight)
+      },
+      circle: {
+        radius: 500,
+        duration: 1000,
+        lineWidth: 2,
+        ease:  function (t) {
+          var n = 1 / 2;
+          return Math.abs(Math.sin(t * Math.PI));
+        },
+        wiggle: 0
+      },
+      color: {
+        hue: function (iteration) {
+          return 6 * iteration % 360;
+        },
+        saturation: 1,
+        lightness: 0.5,
+        compositeType: 'lighter'
+      },
+    };
+
+    var x1 = config.canvas.width / 2;
+    var y1 = config.canvas.height / 2;
+
+    console.log(y1)
+    var x0 = x1;
+    var y0 = y1;
+    var tao = 2 * Math.PI;
+
+    var canvas = d3.select("body").append("canvas")
+    .attr("width", config.canvas.width)
+    .attr("height", config.canvas.height)
+    .on("ontouchstart" in document ? "touchmove" : "mousemove", move);
+
+    var context = canvas.node().getContext("2d");
+    context.globalCompositeOperation = config.compositeType;
+    context.lineWidth = config.circle.lineWidth;
+
+    d3.timer(function() {
+      context.clearRect(0, 0, config.canvas.width, config.canvas.height);
+
+      var color = d3.hsl(
+        config.color.hue(config.iteration),
+        config.color.saturation,
+        config.color.lightness
+      ).rgb();
+
+      var x = x0 += (x1 - x0) * 0.1;
+      var y = y0 += (y1 - y0) * 0.1;
+
+      d3.select({}).transition()
+      .duration(config.circle.duration)
+      .ease(config.circle.ease)
+      .tween("circle", function() {
+        return function(t) {
+          // t is what percent of the easing is done
+          context.strokeStyle = "rgba(" + color.r + "," + color.g + "," + color.b + "," + (1 - t) + ")";
+          context.beginPath();
+          context.arc(x, y, config.circle.radius * t, 0, tao);
+          context.stroke();
+        };
+      });
+
+      config.iteration++;
+    });
+
+    function move() {
+      var mouse = d3.mouse(this);
+      x1 = mouse[0];
+      y1 = mouse[1];
+      d3.event.preventDefault();
+    }
+
+  </script>
+  <audio controls autoplay>
+  <source src="https://ciphersson.github.io/Guided-Hacker-Meditation-Jake-Davis.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
