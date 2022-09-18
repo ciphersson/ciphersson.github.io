@@ -1,0 +1,505 @@
+=====================================================================================================================================================================================================
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██       ███████████████                                                                                                                                                      ███████████████      ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                              ████                                                                                               ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██       ███████████████                                                                                                                                                      ███████████████      ██     
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                                       
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________        _____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+=====================================================================================================================================================================================================
+
+
+python3 main.py --top_k=20 --temperature=1.8 --nsamples=8 --length=100  --text "A Ninja's robbing subway for there choclate chip cookies. Riding a dragon."
+
+
+ Not just an annoying but necessary challenge, a game unto itself to win. As soon as this new hero finds himself alone in this world in an empty city in Japan it'll turn on you, and even a little of yourself into a dragon's back that you'll probably need to destroy. He'll even have an escape. And then the world will know that his only hope in avoiding getting into trouble isn't by being a monster. That only means there is a Dragon. There is none!
+
+
+
+
+
+
+
+=====================================================================================================================================================================================================
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██       ███████████████                                                                                                                                                      ███████████████      ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                              ████                                                                                               ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██       ███████████████                                                                                                                                                      ███████████████      ██     
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                                       
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________        _____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+=====================================================================================================================================================================================================
+
+
+python3 main.py --top_k=80 --temperature=1.8 --nsamples=5 --length=130  --text "The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon."
+
+
+
+
+======================================== SAMPLE 1 ========================================
+
+
+9 New Slang Style Characters (13) | By Tom Clancy | By Andrew Rayel | By Scott Porter Random Quote
+
+
+Shall that's right; what does that even accomplish for readers of Snack's Digest? For if anyone does need a refresher on the Nasty Chicken thing, you read there. So. Long time no see Nasty Chip to Snack. Also doesn't Snack, because "all is good" means we like you. NICK is our hero and you like people, of course ... but so why not everyone? Our one chance of seeing is only made fun of for food. A couple
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 130/130 [00:01<00:00, 88.54it/s]
+======================================== SAMPLE 2 ========================================
+ You said we should have run earlier, but they give all three heads up for now with its tail twitching! I have one way going, if Jafre's don't open his own front room before closing, I'd think they won! Well james say only good intentions! After their lunch, before they even check in again and have a cup, you wait in here! Not till after noon, will it take us another hour and a siesta to move our next party the fuck out of what one, with another guy playing pretend baseball to that barman is fucking getting into... Or what? This restaurant's still alive after 8
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 130/130 [00:01<00:00, 87.43it/s]
+======================================== SAMPLE 3 ========================================
+ After this you get some real magic - from which I would use so I wouldn't risk damage and risk to your head. After that it's actually starting to blow you (because... not doing its job right?) then things turn bright a lot because as soon as I did something stupidly things got out of control and people ran up behind the fire escape they run off in all black until your whole corpse and all life in they all started throwing rocks out (in the weird event that nobody tried to come see it then I guarantee they just sat down inside.) When it's over (and I swear, even a white little idiot at McDonald Jr gave
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 130/130 [00:01<00:00, 87.83it/s]
+======================================== SAMPLE 4 ========================================
+ For them the last move does have an amazing resemblance to the Disney fairy god, St. Nick Jr when she takes a deep breath "So maybe you were wondering the most popular anime character this side of that dragon to be had since Sausage Party 2? I didn't remember all those days," says Matt Serran Foek at SNOW on FUTURE, during their panel in our first look at the dragon for Disney: The Dilemma (also known as Stichiro-mantis for short), taking place the old Sausaging Party 3. Meanwhile their own Mop & Grind series of cartoons continue where Marvel Studios got
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 130/130 [00:01<00:00, 88.03it/s]
+======================================== SAMPLE 5 ========================================
+ It sure seems to know all about those fancy pups everytime.
+
+Now onto what they're getting instead of some pizza. The company I have used, McDonald's Grill, claims he can't run it but gives it away; it "can create temporary memories through food stored at restaurants you find on the internet.... This restaurant has served as the place back-channel back where I started a YouTube special so every Friday nights customers leave to come over with their pictures to use for post pictures .... and you can post pics to go back to food any time you like. Once on duty a store can start serving lunch without making anyone get sick ..
+
+
+
+
+
+
+=====================================================================================================================================================================================================
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██       ███████████████                                                                                                                                                      ███████████████      ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                              ████                                                                                               ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██       ███████████████                                                                                                                                                      ███████████████      ██     
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                                       
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________        _____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+=====================================================================================================================================================================================================
+
+
+python3 main.py --top_k=10 --temperature=1.8 --nsamples=5 --length=150  --text "The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon."
+
+
+
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 150/150 [00:01<00:00, 87.88it/s]
+======================================== SAMPLE 1 ========================================
+ And then the one I was wearing.
+
+You might not believe it if you're not sure what happened next. A few minutes into the show's set in the parking lot, one person came over to us for help. He looked at us in the dark, a smile. "Hey, man. That guy said that he wanted one. What did you get here to do, man?!" he asked as we got out. It sounded kind of crazy, but the whole thing is so cool, the show was really fun and we really wanted to see some real stuff happening. I'm a huge fan of The Ninja.
+
+It was great watching the movie in its first half and watching the rest of the series. I mean it's
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 150/150 [00:01<00:00, 88.26it/s]
+======================================== SAMPLE 2 ========================================
+ The dragon is not real. The Dragon in the middle, and this was an idea I was not aware of, which turned out to have something to do with the whole 'curse to evil of the gods' thing, that is, the 'God was a good and wise man', which has been a huge part of what has helped the Ninja become more human than they ever were. They are all very well aware that it is a lie. I don't think any more of you would want to be involved with such a conspiracy, because that was the first place I knew there was this big and bad lie. The first place they would come across that was a real thing would be when they would go down a dark road in front of a
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 150/150 [00:01<00:00, 88.32it/s]
+======================================== SAMPLE 3 ========================================
+ It's a dragon who looks like it can take down a whole house without a second thought!
+So, you get the gist and the whole experience ends up a lot closer then you'd expect for a game like this. However, I think this would be the kind of fun experience that would be worth a game like "Dragon Ball Z" or "Dragon Z 2," as well! It has the most awesome soundtrack you will find on the whole thing. The soundtrack itself is absolutely amazing!
+The soundtrack itself is absolutely amazing (the only thing it's missing is the soundtrack of "Super Mario 64"), which makes me feel like I am the one making all this up! I'm so happy for Nintendo and its team to get this done.
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 150/150 [00:01<00:00, 88.39it/s]
+======================================== SAMPLE 4 ========================================
+ This means they are not a bad guy in this situation. I mean that if they are the Dragon and I don't believe that, they have got a bad attitude. But if we're on the Ninja it doesn't matter which side you're going on. If it matters what side you're in then they are not a bad guy either. But if they are the Dragons I would rather be on that side than the Dragon. But you are just trying, you are just trying to be on that side as opposed to the dragon's side. So I would say if it does get to the Dragon it will not matter. But you do get the dragon and then you are off with the Dragon or you go back to the Ninja's side. But
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 150/150 [00:01<00:00, 87.93it/s]
+======================================== SAMPLE 5 ========================================
+ I mean there was an awesome scene in The Walking Dead, when a character named Walter, having a hard time getting his hair to turn black, tries to stop the dragon.
+
+And it was all just plain ridiculous. It's kind of ironic in a way, I don't know.
+
+It is a little more of a challenge, actually, to make sure the game does not go too crazy with its graphics for the sake of making the character looks and looks bad in some way and then the game tries to tell the game is just about to play. But you do have a chance if we get a little more work with this, but I really want to think that if we were able to do some other thing with the character and
+
+
+
+
+
+
+
+
+
+
+
+
+
+=====================================================================================================================================================================================================
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██       ███████████████                                                                                                                                                      ███████████████      ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                              ████                                                                                               ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██       ███████████████                                                                                                                                                      ███████████████      ██     
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                                       
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________        _____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+=====================================================================================================================================================================================================
+
+
+python3 main.py --top_k=5 --temperature=1.8 --nsamples=5 --length=230  --text "The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon."
+
+
+
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 84.71it/s]
+======================================== SAMPLE 1 ========================================
+ The darndest thing is, the darndest thing, you are going back to the old days. And you're not going into a place where you don't know where you're going and where the food comes from. And you are going back to a place where you don't know where you're going and where the food comes from. You are going to be in the back of a truck with a lot more than your head. And you are going back. And you are going into the back. And you are going into the back. And you have to be able to move your head. And you can't. And that's where you go to. You are going to go back to that place. And that place. The back. You have a place where your brain and your brain and your mind are not there. You are a place where you can move around the place, but your body can move. You are going back. You are going back to the place that's the place. And the back. That is where you go, and you are going into that place. And the food comes. And
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 84.96it/s]
+======================================== SAMPLE 2 ========================================
+
+
+The Dragon is the one who's been kidnapped and killed, the last person who's alive. They have to find her.
+
+They're trying to kill the Dragon, but she's been kidnapped. So she can't be taken. So she can't be kidnapped. The Dragon has to find him. The dragon can't find him because they have a different plan and it's not the same thing. It could be that the dragon has been abducted and they're not the one that's being held hostage by the Dragon. They have to go after him and he's got his own plan.
+
+The Dragon's going to have to go and kill him and then the Dragon can't find his body, he can't find his body.
+
+They've got to find him and then they have to go after his body.
+
+So the Dragon's trying so hard, the Dragon has no other way out. So he goes and finds his body, and it's not a human, he just got his head stuck on a rock and it got stuck in his throat. It just got stuck there, he was stuck,
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 84.31it/s]
+======================================== SAMPLE 3 ========================================
+ The darndest thing is the dragon's face, the face of a dragon.
+
+This isn't even an attempt on Dragon Ball Z, it's a parody of a Dragon Ball Super game that uses a similar design.
+
+This is the most popular of Dragon Ball Z characters.
+
+The only time a dragon has a voice actor was with Goku during Frieza Saga in The Dragon Ball Heroes. This was a joke.
+
+The name of Dragon Ball is a parody on Dragon Ball Z: Dragon Ball Z: Battle Royale, where a man named Goku calls his friend Vegeta his "Dragon".
+
+Dragon Ball is the only Dragon Ball game with a "Dragon Ball" theme. It's also the only one with a "Dragon Ball" theme, which was originally meant by Dragon Ball Z's creator and was also meant to have an "Dragon Ball" theme.
+
+In Dragon Ball Z: Battle Royale (and later Dragon Ball Z: Battle of Gods and Kings), the main character has his own name for the main character and the main villain is the "Dragon Ball." This name has a similar name to the "
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 84.32it/s]
+======================================== SAMPLE 4 ========================================
+ I don't even know what to say, they are so much fun to watch. I don't think they have any kind of special powers. The darndest is just a big guy, a little kid, and the best way for me to see him in his real form is if we watch him play with a little bit of his hair. The darndest is like a dragon. The best way of watching him is to watch him in a way that he doesn't look. The Ninja's have no idea that they're going to get their way.
+
+What is your favourite character?
+
+Well I'm not really going into that. I don't think that's really important to me at the moment. The only character who really matters for me is the guy with a gun, he's a badass.
+
+You're a very popular character, do they really like him or is that just because you are a popular character.
+
+Well, they are a very popular character. The first time we met, it was the first time I saw the movie. I saw the character and I was like, "
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 84.28it/s]
+======================================== SAMPLE 5 ========================================
+
+
+The Ninja is a character in Dragon Quest series who appears in the game, and is the main antagonist.
+
+The Ninja was a member of Team Rocket's Team Rocket team and is also a character in Dragon Quest: The Lost Legacy. He was also a character in Dragon Quest: Dragon's Fury.
+
+He was also a playable in The Legend of Zelda series, in which the protagonist is the ninja who was a playable character in Zelda. The ninja was the only one that could defeat the boss in The Legend of Zelda.
+
+The Ninja was voiced in the Dragon Quest series, and is a playable in Dragon Quest II.
+
+The Ninja appears as an enemy in Dragon Age: Origins.
+
+He is a character that can be unlocked through the quest "A New Dragon" in Dragon's Quest II: Heart Reaver.
+
+He appears as an enemy in The Elder Scrolls IV: Oblivion, and in the Dragon Quest III series, as a playable enemy in Dragon Quest II: The Last Battle.
+
+He is voiced in Dragon Quest IV: Oblivion and Dragon Quest III, as well as as in Elder
+ciphersson@ciphersson-C-Series:~/gpt-2-Pytorch$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=====================================================================================================================================================================================================
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██       ███████████████                                                                                                                                                      ███████████████      ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                              ████                                                                                               ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██       ███████████████                                                                                                                                                      ███████████████      ██     
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                                       
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________        _____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+=====================================================================================================================================================================================================
+
+
+python3 main.py --top_k=5 --temperature=2.8 --nsamples=5 --length=230  --text "The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon."
+
+
+
+
+ciphersson@ciphersson-C-Series:~/gpt-2-Pytorch$ python3 main.py --top_k=5 --temperature=2.8 --nsamples=5 --length=230  --text "The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon."
+Namespace(text="The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon.", quiet=False, nsamples=5, unconditional=False, batch_size=-1, length=230, temperature=2.8, top_k=5)
+The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon.
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 87.89it/s]
+======================================== SAMPLE 1 ========================================
+
+
+This isn't really a game about the darndest. It was more like, the Ninja is stealing from the store, and he wants to buy them. The Ninja's are stealing from the McDonalds because they are a threat. The Ninja, in the first game is the most evil, so the D.I.-M is not going to stop them if they don't take him down. In the third game he is a threat. The D.I.'s have been taking him down for years, because the Ninja has a plan to stop them. He can be defeated with a combination of the two. The D'Darndest can't defeat a dragon. The darldest is a D.I. M, the Dragon, because it is a threat that he cannot stop the Ninja, so he needs to be a good one. In fact, the Dragon can stop the D.I. from killing the D'.L., but that is the D.I.-M's, not the Dragon.
+
+There's also the fact that the Ninja's don a lot. The D'.D
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 87.98it/s]
+======================================== SAMPLE 2 ========================================
+
+"I'll tell them that you have been arrested. You have to go and get a ticket, and they are gonna have you arrested," said the man in his 30s who asked to remain silent.
+"I don't know why the police don't do it, but it's just so bad."<|endoftext|>In the first week after the UESPWiki – Your source for The Elder Scrolls since 1994
+
+
+"This was my second day here." "This is a long time ago. The first day of my time here." - An old man
+
+I was born on the night before the fall of Vashonkesh and lived in my father's house in the village where the village's residents were born and raised.
+
+After my father passed on his duties, the family moved back to the house in the town of Vashonksh to avoid the harsh winter weather. The first time I saw my parents I was so scared I didn't even bother to open a door for them because my mother and I had to stay at the house. I didn't know how long I'd be here before my mother
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 88.24it/s]
+======================================== SAMPLE 3 ========================================
+ The darndest thing. The one that is going to take care of the darndest thing. The ones that are going for that.
+I'm not even going back there, I'm just saying I've got to go and look it over for myself, but you're not the only one who is going through it.
+I don't think that I've been able come back from it and not be a little bit of a loser. You know that, right? You've gotta have some sort of a heart and some kind of determination to get out and make this a successful business. And it was the first time in a million years, and the people of the city who are going out there and getting out of here and getting to see it all. And they were like the people who came back from the jungle and the animals that were here and all the stuff that was in the jungle, and I mean the people who came back from that. And it's the same people. It's the same people and I think we all got along. It is just that the people who came out here, the people from
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 88.10it/s]
+======================================== SAMPLE 4 ========================================
+ I can tell you that.
+Posted in 3 years | Last edited by K.B (03/03/2018 at 11:30 AM )
+
+Comments (1)
+
+
+[newfoundtatime]
+
+I'm not saying the game is good but I don't like it.
+
+I'm just wondering what kind of games people are playing with this?
+
+Posted in 3 years | Last edited by Paddy (03/03/18 at 11:59 AM )
+
+Comments (1)
+
+
+[newfoundtatimes][New Times of]
+
+
+
+[NEW Times of]
+
+I've always liked the original game but now I can't find anything on the internet that says it was released on the PS2 in the 1980´s.
+
+Posted in 3 years | Last edited by K.KHN (03/03/2018 at 11:01 AM ) | Last modified in 4 months |
+
+Posted in 5 years
+
+Comments
+
+posted by kk (03/04/18 at 12:12 pm )<|endoftext|>I have a lot to
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 230/230 [00:02<00:00, 88.29it/s]
+======================================== SAMPLE 5 ========================================
+ The darndest things, the ones they're trying to steal.
+
+I'm sure the darrdest things are trying to steal the chocolaties, and they are going after the people that have the most money and they are not the best, but that is what they're doing. And that is what the ninja is trying to steal from them, the chocolaty, they are not going to stop.
+
+So they are robbing the store, they rob a McDonalds, the store is being robbed by them because the people who are stealing from them are trying, you know they're trying to, you know the police are trying the people that the people are stealing for their own profit, and the store is not going to stop. So it just goes from here, it goes back, and the next one is just the same. And then there's the other one, the other one. It is a very sad day for us in our lives, and I want you to know, this whole situation has been a nightmare for us. And I'm not saying it is the best of people in our
+ciphersson@ciphersson-C-Series:~/gpt-2-Pytorch$ 
+
+
+
+
+
+
+
+
+
+
+=====================================================================================================================================================================================================
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██       ███████████████                                                                                                                                                      ███████████████      ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                              ████                                                                                               ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██       ███████████████                                                                                                                                                      ███████████████      ██     
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                                       
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________        _____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+=====================================================================================================================================================================================================
+
+
+python3 main.py --top_k=3 --temperature=3.8 --nsamples=5 --length=100  --text "The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon."
+
+
+
+
+
+
+
+
+
+
+
+
+
+=====================================================================================================================================================================================================
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██       ███████████████                                                                                                                                                      ███████████████      ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                              ████                                                                                               ██
+██                                                                                         ███████████████                                                                                         ██
+██                                                                                  ██████████████████████████████                                                                                 ██
+██                                                                   ███████████████                              ███████████████                                                                  ██
+██                                                    ███████████████                                                            ███████████████                                                   ██
+██                                     ███████████████                                                                                          ███████████████                                    ██
+██                      ███████████████                                                                                                                        ███████████████                     ██
+██       ███████████████                                                                                                                                                      ███████████████      ██     
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                                       
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________        _____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+=====================================================================================================================================================================================================
+
+
+python3 main.py --top_k=5 --temperature=2.8 --nsamples=5 --length=230  --text "The Ninja's are robbing the McDonald's for there choclate chip cookies again. The darndest thing, they where riding a blue dragon."
+
+
+
+
+
+
+
+
+
